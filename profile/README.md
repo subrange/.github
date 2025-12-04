@@ -1,40 +1,14 @@
+
 # Projects
 
 Working on [Amnesia](https://esolangs.org/wiki/Amnesia) in Haskell.
 
-Programming languages I want to try / use again
-- [ ] Rust
-- [ ] Odin
-- [ ] Ada
-- [ ] Go
-- [ ] Ocaml (top tier language)
-- [ ] Elixir
-- [ ] F#
-- [ ] C++
-- [ ] Zig
-- [ ] D
-- [ ] C (favorite)
-- [ ] Prolog (used this once in college)
-- [ ] Racket
-- [ ] Elm
-- [ ] Crystal
-- [ ] Common Lisp
-- [ ] Julia
-- [ ] Ruby
-- [ ] Lua
-- [ ] JavaScript
-- [ ] TypeScript
-- [ ] Kotlin
-- [ ] Scala
-- [ ] SmallTalk
-- [ ] Perl
-- [ ] C#
-- [ ] Java
-- [ ] Carbon
-- [ ] V
-- [ ] Scheme
-- [ ] Tcl
-- [ ] Raku
+## Languages I Want to Try / Revisit
+
+- Rust, Odin, Ada, Go, OCaml (top-tier), Elixir, F#, C++, Zig, D, C (favorite)
+- Prolog (used once in college), Racket, Elm, Crystal, Common Lisp, Julia, Ruby, Lua
+- JavaScript, TypeScript, Kotlin, Scala, Smalltalk, Perl, C#, Java, Carbon, V
+- Scheme, Tcl, Raku
 
 ## Resources
 
@@ -49,3 +23,6 @@ Programming languages I want to try / use again
 This is by no means an exhaustive list but it's some of the sources that I have used. I am both someone who enjoys implementing
 and learning about the different semantics of a langauge. 
 
+## Contributing
+
+Anyone can submit a PR. If you want to help me in this journey email me, I'll add you to the organization.
