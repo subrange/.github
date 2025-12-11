@@ -5,7 +5,7 @@ Working on [Amnesia](https://esolangs.org/wiki/Amnesia) in Haskell.
 
 ## Languages I Want to Try / Revisit
 
-- Rust, Odin, Ada, Go, OCaml (top-tier), Elixir, F#, C++, Zig, D, C (favorite)
+- Rust, Odin, Ada, Go, OCaml (top-tier), Elixir, F#, Zig, D
 - Prolog (used once in college), Racket, Elm, Crystal, Common Lisp, Julia, Ruby, Lua
 - JavaScript, TypeScript, Kotlin, Scala, Smalltalk, Perl, C#, Java, Carbon, V
 - Scheme, Tcl, Raku
