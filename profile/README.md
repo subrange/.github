@@ -1,14 +1,11 @@
 
 # Projects
 
-Working on [Amnesia](https://esolangs.org/wiki/Amnesia) in Haskell.
+Primarily working on bringing the Swift programming language to FreeBSD, and on the side developing my own systems language, [Ripe](https://github.com/ripe-lang/ripe), and working on the esolang [Amnesia](https://esolangs.org/wiki/Amnesia) in Haskell.
 
 ## Languages I Want to Try / Revisit
 
-- Rust, Odin, Ada, Elixir, F#, Zig, D
-- Prolog (used once in college), Racket, Elm, Crystal, Common Lisp, Julia, Ruby, Lua
-- JavaScript, TypeScript, Kotlin, Scala, Smalltalk, Perl, C#, Java, Carbon, V
-- Scheme, Tcl, Raku
+Rust, Odin, Ada, Elixir, F#, Zig, D, Prolog (used once in college), Racket, Elm, Crystal, Common Lisp, Julia, Ruby, Lua, JavaScript, TypeScript, Kotlin, Scala, Smalltalk, Perl, C#, Java, Carbon, V, Scheme, Tcl, Raku
 
 ## Resources
 
