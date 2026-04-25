@@ -3,6 +3,8 @@
 
 Primarily working on bringing the Swift programming language to FreeBSD, and on the side developing my own systems language, [Ripe](https://github.com/ripe-lang/ripe), and working on the esolang [Amnesia](https://esolangs.org/wiki/Amnesia) in Haskell.
 
+I've been learning about programming languages for 3 years, and there is still so much more to learn.
+
 ## Languages I Want to Try / Revisit
 
 Rust, Odin, Ada, Elixir, F#, Zig, D, Prolog (used once in college), Racket, Elm, Crystal, Common Lisp, Julia, Ruby, Lua, JavaScript, TypeScript, Kotlin, Scala, Smalltalk, Perl, C#, Java, Carbon, V, Scheme, Tcl, Raku
